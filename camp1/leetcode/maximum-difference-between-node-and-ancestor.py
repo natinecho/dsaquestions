@@ -5,11 +5,28 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def maxAncestorDiff(self, root: Optional[TreeNode], minn=100000,maxx=0) -> int:
-        if not root:
-            return maxx-minn
-            
-        minn=min(minn,root.val)
-        maxx=max(maxx,root.val)
+    def maxAncestorDiff(self, root: Optional[TreeNode], minn=float('inf'), maxx=float('-inf')) -> int:
+        ans = 0
+        
+        def help(node):
+            nonlocal ans
+            if node:
+                left_min = help(node.left) if node.left else [node.val, node.val]
 
-        return max(self.maxAncestorDiff(root.left,minn,maxx) , self.maxAncestorDiff(root.right,minn,maxx))       
+                right_min= help(node.right) if node.right else [node.val, node.val]
+                
+                l = min(node.val, left_min[0], right_min[0])
+                r = max(node.val, left_min[1], right_min[1])
+
+                ans = max(ans, max(abs(l - node.val), abs(r - node.val)))
+
+                return [l,r]
+
+        help(root)
+        
+        return ans
+
+                
+            
+
+
