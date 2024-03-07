@@ -1,14 +1,20 @@
 class Solution:
-    def numSubseq(self, nums, target):
+    def numSubseq(self, nums: List[int], target: int) -> int:  
         nums.sort()
+        temp = target - nums[0]
+        val = bisect_right(nums,temp)
+        val = min(val, len(nums))
         count = 0
-        l, r = 0, len(nums) - 1
 
-        while l <= r:
+        l = 0
+        r = val-1
+        while l<=r :
             if nums[l] + nums[r] <= target:
-                count = (count + 2**(r-l)) % (10**9 + 7)
+                count = (count + 2 **(r-l))%((10**9) + 7)
                 l += 1
             else:
                 r -= 1
-        
-        return count
+
+
+        return (count)%(10**9+7)
+
