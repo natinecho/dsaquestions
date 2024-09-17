@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/natinecho/dsaquestions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/natinecho/dsaquestions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Queue
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/natinecho/dsaquestions/tree/master/0319-bulb-switcher) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
