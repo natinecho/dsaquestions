@@ -46,9 +46,14 @@
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/natinecho/dsaquestions/tree/master/0319-bulb-switcher) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
 | ------- |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/natinecho/dsaquestions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
