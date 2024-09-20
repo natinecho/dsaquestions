@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/natinecho/dsaquestions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/natinecho/dsaquestions/tree/master/0057-insert-interval) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0495-teemo-attacking](https://github.com/natinecho/dsaquestions/tree/master/0495-teemo-attacking) |
