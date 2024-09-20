@@ -6,6 +6,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
+| [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [0790-global-and-local-inversions](https://github.com/natinecho/dsaquestions/tree/master/0790-global-and-local-inversions) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/natinecho/dsaquestions/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/natinecho/dsaquestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
+| [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 ## Depth-First Search
@@ -145,5 +147,6 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
