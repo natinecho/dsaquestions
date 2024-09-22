@@ -41,6 +41,7 @@
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/natinecho/dsaquestions/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/natinecho/dsaquestions/tree/master/1086-divisor-game) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/natinecho/dsaquestions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/natinecho/dsaquestions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
