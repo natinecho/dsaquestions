@@ -11,11 +11,6 @@ class Solution:
             else:
                 l = mid + 1
 
-        
-
-        if r >= 0:
-            return arr[r] + (k - (arr[r] - (r + 1)))
-
-        return k
+        return  l + k
 
 
