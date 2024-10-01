@@ -22,6 +22,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -287,4 +288,8 @@
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
