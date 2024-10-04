@@ -38,6 +38,7 @@
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
@@ -94,6 +95,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 ## Memoization
@@ -242,6 +245,7 @@
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Enumeration
 |  |
 | ------- |
