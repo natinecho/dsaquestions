@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/natinecho/dsaquestions/tree/master/0057-insert-interval) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0495-teemo-attacking](https://github.com/natinecho/dsaquestions/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/natinecho/dsaquestions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/natinecho/dsaquestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1086-divisor-game](https://github.com/natinecho/dsaquestions/tree/master/1086-divisor-game) |
@@ -147,11 +149,13 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/natinecho/dsaquestions/tree/master/0605-can-place-flowers) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
@@ -294,6 +298,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natinecho/dsaquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 ## Design
