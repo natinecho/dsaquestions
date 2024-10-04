@@ -20,6 +20,7 @@
 | [1325-path-with-maximum-probability](https://github.com/natinecho/dsaquestions/tree/master/1325-path-with-maximum-probability) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/natinecho/dsaquestions/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 ## Two Pointers
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
