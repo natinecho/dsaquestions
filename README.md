@@ -31,6 +31,7 @@
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -208,6 +209,7 @@
 | ------- |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -309,6 +311,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natinecho/dsaquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
 ## Design
 |  |
 | ------- |
