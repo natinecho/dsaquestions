@@ -9,6 +9,9 @@ class Solution:
                 return True
 
             if nums[l] == nums[mid] == nums[r]:
+                # duplicate number occurs (nums[mid] == nums[left])
+                # in this case, we cannot know which half mid is in
+                # therefore, we can shrink left and right by one 
                 l += 1
                 r -= 1
             elif nums[l] <= nums[mid]:
