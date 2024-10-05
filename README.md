@@ -15,6 +15,7 @@
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/natinecho/dsaquestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0790-global-and-local-inversions](https://github.com/natinecho/dsaquestions/tree/master/0790-global-and-local-inversions) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/natinecho/dsaquestions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/natinecho/dsaquestions/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natinecho/dsaquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 ## Design
