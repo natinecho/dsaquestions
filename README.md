@@ -277,6 +277,7 @@
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/natinecho/dsaquestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
