@@ -55,6 +55,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/natinecho/dsaquestions/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/natinecho/dsaquestions/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -306,6 +310,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -316,6 +321,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
