@@ -92,6 +92,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natinecho/dsaquestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -315,6 +316,7 @@
 | [1558-course-schedule-iv](https://github.com/natinecho/dsaquestions/tree/master/1558-course-schedule-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -326,6 +328,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/natinecho/dsaquestions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
@@ -351,4 +354,5 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
