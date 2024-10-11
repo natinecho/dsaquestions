@@ -22,6 +22,9 @@ class Graph:
         while heap:
             wh,node = heappop(heap)
 
+            if node == node2:
+                return dist[node2]
+
             if node not in visited:
                 visited.add(node)
                 for ni, w in self.graph[node]:
@@ -29,7 +32,7 @@ class Graph:
                         dist[ni] =  dist[node] + w
                         heappush(heap,(dist[ni],ni))
 
-        return dist[node2] if dist[node2] != float("inf") else -1 
+        return  -1 
 
         
 
