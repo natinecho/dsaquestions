@@ -1,15 +1,20 @@
 class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
-        heap = []
-
-        intervals.sort()
+        maxx = 0
         for st,en in intervals:
-            if heap and heap[0] < st:
-                heappop(heap)
+            maxx = max(maxx,st,en)
 
-            heappush(heap,en)
+        psum = [0]*(maxx + 2)
 
-        return len(heap)
+        for st,en in intervals:
+            psum[st] += 1
+            psum[en + 1] -= 1
+
+        for i in range(1,len(psum)):
+            psum[i] += psum[i - 1]
+        
+
+        return max(psum)
 
 
         
