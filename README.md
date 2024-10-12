@@ -47,6 +47,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
@@ -92,6 +93,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natinecho/dsaquestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Greedy
 |  |
@@ -184,6 +187,7 @@
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/natinecho/dsaquestions/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/natinecho/dsaquestions/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Simulation
 |  |
@@ -250,6 +254,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
@@ -272,6 +277,7 @@
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Enumeration
 |  |
