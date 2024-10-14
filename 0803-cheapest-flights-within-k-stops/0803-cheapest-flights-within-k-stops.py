@@ -5,7 +5,6 @@ class Solution:
 
         for i in range(k + 1):
             curr = dp[::]
-            print(curr)
 
             for u,v,w in flights:
                 curr[v] = min(curr[v],dp[u] + w)
