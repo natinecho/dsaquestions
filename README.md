@@ -89,6 +89,7 @@
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/natinecho/dsaquestions/tree/master/1325-path-with-maximum-probability) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
+| [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/1256-rank-transform-of-an-array) |
@@ -132,6 +134,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/natinecho/dsaquestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/natinecho/dsaquestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
+| [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/natinecho/dsaquestions/tree/master/1205-defanging-an-ip-address) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
@@ -144,6 +147,7 @@
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -188,6 +192,7 @@
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/natinecho/dsaquestions/tree/master/0605-can-place-flowers) |
+| [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/natinecho/dsaquestions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -253,6 +258,7 @@
 | [0056-merge-intervals](https://github.com/natinecho/dsaquestions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/natinecho/dsaquestions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
