@@ -167,12 +167,14 @@
 | [0670-maximum-swap](https://github.com/natinecho/dsaquestions/tree/master/0670-maximum-swap) |
 | [0790-global-and-local-inversions](https://github.com/natinecho/dsaquestions/tree/master/0790-global-and-local-inversions) |
 | [1086-divisor-game](https://github.com/natinecho/dsaquestions/tree/master/1086-divisor-game) |
+| [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Brainteaser
 |  |
