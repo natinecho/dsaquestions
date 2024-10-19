@@ -9,6 +9,8 @@ class Solution:
         ans   = []
 
         def back(l , r):
+            if (l,r) in dp:
+                return dp[(l,r)]
 
             if l > r:
                 return [None]
@@ -26,9 +28,10 @@ class Solution:
                         node.right = rr
                         trees.append(node)
 
+            dp[(l,r)] = trees
             return trees
 
-        
+        dp = {}
         return back(1,n)
             
 
