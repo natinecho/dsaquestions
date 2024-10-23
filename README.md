@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
@@ -311,6 +312,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/natinecho/dsaquestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/natinecho/dsaquestions/tree/master/0908-middle-of-the-linked-list) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
@@ -326,6 +328,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 ## Trie
 |  |
