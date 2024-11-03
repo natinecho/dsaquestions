@@ -155,6 +155,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/natinecho/dsaquestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
 | [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/natinecho/dsaquestions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/natinecho/dsaquestions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/natinecho/dsaquestions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/natinecho/dsaquestions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 ## Trie
 |  |
