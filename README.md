@@ -65,6 +65,7 @@
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/natinecho/dsaquestions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/natinecho/dsaquestions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/natinecho/dsaquestions/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -318,6 +319,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
+| [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Memoization
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/natinecho/dsaquestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
 | ------- |
