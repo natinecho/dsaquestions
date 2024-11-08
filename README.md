@@ -56,6 +56,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/natinecho/dsaquestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/natinecho/dsaquestions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -215,6 +216,7 @@
 | [0319-bulb-switcher](https://github.com/natinecho/dsaquestions/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/natinecho/dsaquestions/tree/master/1086-divisor-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/natinecho/dsaquestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -374,6 +376,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/natinecho/dsaquestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/natinecho/dsaquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/natinecho/dsaquestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
