@@ -164,6 +164,7 @@
 | [1205-defanging-an-ip-address](https://github.com/natinecho/dsaquestions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/natinecho/dsaquestions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/natinecho/dsaquestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/natinecho/dsaquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/natinecho/dsaquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -334,6 +335,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [1002-maximum-width-ramp](https://github.com/natinecho/dsaquestions/tree/master/1002-maximum-width-ramp) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/natinecho/dsaquestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/natinecho/dsaquestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
