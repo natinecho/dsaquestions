@@ -49,6 +49,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/natinecho/dsaquestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/natinecho/dsaquestions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -453,6 +454,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natinecho/dsaquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/natinecho/dsaquestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/natinecho/dsaquestions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
