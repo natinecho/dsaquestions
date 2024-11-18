@@ -42,6 +42,7 @@
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
+| [1755-defuse-the-bomb](https://github.com/natinecho/dsaquestions/tree/master/1755-defuse-the-bomb) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1940-maximum-xor-for-each-query](https://github.com/natinecho/dsaquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
@@ -515,4 +516,5 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/natinecho/dsaquestions/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
