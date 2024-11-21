@@ -10,6 +10,7 @@
 | [0057-insert-interval](https://github.com/natinecho/dsaquestions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/natinecho/dsaquestions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/natinecho/dsaquestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/natinecho/dsaquestions/tree/master/0162-find-peak-element) |
@@ -399,6 +400,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/natinecho/dsaquestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/natinecho/dsaquestions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/natinecho/dsaquestions/tree/master/1940-maximum-xor-for-each-query) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/natinecho/dsaquestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/natinecho/dsaquestions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
