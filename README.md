@@ -278,6 +278,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/natinecho/dsaquestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0386-lexicographical-numbers](https://github.com/natinecho/dsaquestions/tree/master/0386-lexicographical-numbers) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -496,6 +498,7 @@
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/natinecho/dsaquestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/natinecho/dsaquestions/tree/master/2384-root-equals-sum-of-children) |
@@ -514,6 +517,7 @@
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/natinecho/dsaquestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/natinecho/dsaquestions/tree/master/2384-root-equals-sum-of-children) |
