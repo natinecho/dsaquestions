@@ -50,6 +50,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natinecho/dsaquestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/natinecho/dsaquestions/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -255,6 +256,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/natinecho/dsaquestions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/natinecho/dsaquestions/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [2089-maximum-matrix-sum](https://github.com/natinecho/dsaquestions/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -323,6 +325,7 @@
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
+| [2089-maximum-matrix-sum](https://github.com/natinecho/dsaquestions/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
