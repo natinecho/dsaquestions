@@ -44,6 +44,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/natinecho/dsaquestions/tree/master/1755-defuse-the-bomb) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1940-maximum-xor-for-each-query](https://github.com/natinecho/dsaquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
@@ -101,6 +102,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/natinecho/dsaquestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/natinecho/dsaquestions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/natinecho/dsaquestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -256,6 +258,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/natinecho/dsaquestions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/natinecho/dsaquestions/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/natinecho/dsaquestions/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
@@ -476,6 +479,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natinecho/dsaquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/natinecho/dsaquestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
