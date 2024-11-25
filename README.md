@@ -307,6 +307,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/natinecho/dsaquestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
@@ -517,6 +518,7 @@
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/natinecho/dsaquestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/natinecho/dsaquestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -536,6 +538,7 @@
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/natinecho/dsaquestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/natinecho/dsaquestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
