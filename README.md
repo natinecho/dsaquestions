@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/natinecho/dsaquestions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/natinecho/dsaquestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/natinecho/dsaquestions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
@@ -373,6 +375,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [1002-maximum-width-ramp](https://github.com/natinecho/dsaquestions/tree/master/1002-maximum-width-ramp) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/natinecho/dsaquestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -385,6 +388,7 @@
 | ------- |
 | [0015-3sum](https://github.com/natinecho/dsaquestions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/natinecho/dsaquestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/natinecho/dsaquestions/tree/master/0908-middle-of-the-linked-list) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
@@ -504,6 +508,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/natinecho/dsaquestions/tree/master/1002-maximum-width-ramp) |
 ## Tree
 |  |
