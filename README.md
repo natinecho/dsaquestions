@@ -68,6 +68,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/natinecho/dsaquestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/natinecho/dsaquestions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/natinecho/dsaquestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2554-minimum-total-distance-traveled](https://github.com/natinecho/dsaquestions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/natinecho/dsaquestions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -108,6 +109,7 @@
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/natinecho/dsaquestions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
+| [2554-minimum-total-distance-traveled](https://github.com/natinecho/dsaquestions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/natinecho/dsaquestions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -356,6 +358,7 @@
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/natinecho/dsaquestions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
