@@ -383,6 +383,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [1002-maximum-width-ramp](https://github.com/natinecho/dsaquestions/tree/master/1002-maximum-width-ramp) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/natinecho/dsaquestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -505,6 +506,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
