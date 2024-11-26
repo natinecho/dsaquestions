@@ -50,6 +50,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1940-maximum-xor-for-each-query](https://github.com/natinecho/dsaquestions/tree/master/1940-maximum-xor-for-each-query) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/natinecho/dsaquestions/tree/master/2047-find-a-peak-element-ii) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0670-maximum-swap](https://github.com/natinecho/dsaquestions/tree/master/0670-maximum-swap) |
 | [0790-global-and-local-inversions](https://github.com/natinecho/dsaquestions/tree/master/0790-global-and-local-inversions) |
 | [1086-divisor-game](https://github.com/natinecho/dsaquestions/tree/master/1086-divisor-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -237,6 +240,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Brainteaser
@@ -288,6 +292,7 @@
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
