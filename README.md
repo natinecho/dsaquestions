@@ -143,6 +143,7 @@
 | [1325-path-with-maximum-probability](https://github.com/natinecho/dsaquestions/tree/master/1325-path-with-maximum-probability) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1955-seat-reservation-manager](https://github.com/natinecho/dsaquestions/tree/master/1955-seat-reservation-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natinecho/dsaquestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -537,6 +538,7 @@
 | [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1955-seat-reservation-manager](https://github.com/natinecho/dsaquestions/tree/master/1955-seat-reservation-manager) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Combinatorics
 |  |
