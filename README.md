@@ -90,6 +90,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3427-special-array-ii](https://github.com/natinecho/dsaquestions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/natinecho/dsaquestions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/natinecho/dsaquestions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -268,6 +269,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/natinecho/dsaquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3427-special-array-ii](https://github.com/natinecho/dsaquestions/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/natinecho/dsaquestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/natinecho/dsaquestions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/natinecho/dsaquestions/tree/master/3427-special-array-ii) |
 ## Design
 |  |
 | ------- |
