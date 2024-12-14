@@ -187,6 +187,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
@@ -408,6 +409,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
