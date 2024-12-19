@@ -63,6 +63,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/natinecho/dsaquestions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/natinecho/dsaquestions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
@@ -133,6 +134,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/natinecho/dsaquestions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
