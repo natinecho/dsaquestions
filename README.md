@@ -213,6 +213,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/natinecho/dsaquestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/natinecho/dsaquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/natinecho/dsaquestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/natinecho/dsaquestions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/natinecho/dsaquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/natinecho/dsaquestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -275,6 +276,7 @@
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1206-corporate-flight-bookings](https://github.com/natinecho/dsaquestions/tree/master/1206-corporate-flight-bookings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/natinecho/dsaquestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/natinecho/dsaquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
