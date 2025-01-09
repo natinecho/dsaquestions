@@ -71,6 +71,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/natinecho/dsaquestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/natinecho/dsaquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/natinecho/dsaquestions/tree/master/2465-shifting-letters-ii) |
@@ -226,6 +227,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/natinecho/dsaquestions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/natinecho/dsaquestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2465-shifting-letters-ii](https://github.com/natinecho/dsaquestions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/natinecho/dsaquestions/tree/master/2580-circular-sentence) |
@@ -472,6 +474,7 @@
 | [0812-rotate-string](https://github.com/natinecho/dsaquestions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/natinecho/dsaquestions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/natinecho/dsaquestions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Trie
 |  |
 | ------- |
