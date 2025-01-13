@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
@@ -200,6 +201,7 @@
 | [0020-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
