@@ -175,6 +175,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
 | [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -201,6 +202,7 @@
 | [0020-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
@@ -641,6 +643,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/natinecho/dsaquestions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/natinecho/dsaquestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
