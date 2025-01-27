@@ -8,7 +8,6 @@ class Solution:
 
         for  u,v in prerequisites:
             graph[u][v] = 1
-            # graph[v][u] = 1
 
         for i in range(numCourses):        
             for u in range(numCourses):        
