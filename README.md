@@ -345,6 +345,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/natinecho/dsaquestions/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -363,6 +364,7 @@
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -519,6 +522,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
