@@ -344,6 +344,7 @@
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/natinecho/dsaquestions/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
@@ -364,6 +365,7 @@
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
@@ -609,6 +611,7 @@
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/natinecho/dsaquestions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/natinecho/dsaquestions/tree/master/2384-root-equals-sum-of-children) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/natinecho/dsaquestions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -630,6 +633,7 @@
 | [0112-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/natinecho/dsaquestions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/natinecho/dsaquestions/tree/master/2384-root-equals-sum-of-children) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/natinecho/dsaquestions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
