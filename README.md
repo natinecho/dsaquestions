@@ -100,6 +100,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3427-special-array-ii](https://github.com/natinecho/dsaquestions/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/natinecho/dsaquestions/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/natinecho/dsaquestions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/natinecho/dsaquestions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
