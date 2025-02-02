@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/natinecho/dsaquestions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/natinecho/dsaquestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/natinecho/dsaquestions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natinecho/dsaquestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/natinecho/dsaquestions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
@@ -116,6 +117,7 @@
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/natinecho/dsaquestions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/natinecho/dsaquestions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natinecho/dsaquestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
