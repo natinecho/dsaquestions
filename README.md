@@ -100,6 +100,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/natinecho/dsaquestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/natinecho/dsaquestions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/natinecho/dsaquestions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/natinecho/dsaquestions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3427-special-array-ii](https://github.com/natinecho/dsaquestions/tree/master/3427-special-array-ii) |
