@@ -226,6 +226,7 @@
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
 | [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/natinecho/dsaquestions/tree/master/0812-rotate-string) |
+| [0858-masking-personal-information](https://github.com/natinecho/dsaquestions/tree/master/0858-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/natinecho/dsaquestions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/natinecho/dsaquestions/tree/master/1302-delete-characters-to-make-fancy-string) |
