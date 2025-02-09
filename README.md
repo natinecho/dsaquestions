@@ -83,6 +83,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/natinecho/dsaquestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/natinecho/dsaquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/natinecho/dsaquestions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -206,6 +207,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/natinecho/dsaquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/natinecho/dsaquestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -269,6 +271,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/natinecho/dsaquestions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/natinecho/dsaquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
@@ -288,6 +291,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
+| [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
