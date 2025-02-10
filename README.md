@@ -259,6 +259,7 @@
 | [2580-circular-sentence](https://github.com/natinecho/dsaquestions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/natinecho/dsaquestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/natinecho/dsaquestions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3447-clear-digits](https://github.com/natinecho/dsaquestions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/natinecho/dsaquestions/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
@@ -364,6 +365,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/natinecho/dsaquestions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/natinecho/dsaquestions/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -484,6 +486,7 @@
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/natinecho/dsaquestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/natinecho/dsaquestions/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
