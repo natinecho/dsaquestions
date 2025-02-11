@@ -248,6 +248,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/natinecho/dsaquestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/natinecho/dsaquestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/natinecho/dsaquestions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/natinecho/dsaquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/natinecho/dsaquestions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -359,6 +360,7 @@
 | [1449-print-words-vertically](https://github.com/natinecho/dsaquestions/tree/master/1449-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/natinecho/dsaquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
@@ -483,6 +485,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/natinecho/dsaquestions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/natinecho/dsaquestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/natinecho/dsaquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/natinecho/dsaquestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
