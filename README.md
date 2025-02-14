@@ -207,6 +207,7 @@
 | [1364-tuple-with-same-product](https://github.com/natinecho/dsaquestions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/natinecho/dsaquestions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/natinecho/dsaquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1905-design-authentication-manager](https://github.com/natinecho/dsaquestions/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/natinecho/dsaquestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/natinecho/dsaquestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
@@ -564,6 +565,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/natinecho/dsaquestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0908-middle-of-the-linked-list](https://github.com/natinecho/dsaquestions/tree/master/0908-middle-of-the-linked-list) |
+| [1905-design-authentication-manager](https://github.com/natinecho/dsaquestions/tree/master/1905-design-authentication-manager) |
 ## Backtracking
 |  |
 | ------- |
@@ -641,6 +643,7 @@
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natinecho/dsaquestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1905-design-authentication-manager](https://github.com/natinecho/dsaquestions/tree/master/1905-design-authentication-manager) |
 | [1955-seat-reservation-manager](https://github.com/natinecho/dsaquestions/tree/master/1955-seat-reservation-manager) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2778-frequency-tracker](https://github.com/natinecho/dsaquestions/tree/master/2778-frequency-tracker) |
@@ -714,4 +717,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/natinecho/dsaquestions/tree/master/1477-product-of-the-last-k-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1905-design-authentication-manager](https://github.com/natinecho/dsaquestions/tree/master/1905-design-authentication-manager) |
 <!---LeetCode Topics End-->
