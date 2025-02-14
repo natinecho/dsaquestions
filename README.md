@@ -223,6 +223,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/natinecho/dsaquestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/natinecho/dsaquestions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2778-frequency-tracker](https://github.com/natinecho/dsaquestions/tree/master/2778-frequency-tracker) |
 ## String
 |  |
 | ------- |
@@ -642,6 +643,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1955-seat-reservation-manager](https://github.com/natinecho/dsaquestions/tree/master/1955-seat-reservation-manager) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/natinecho/dsaquestions/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2778-frequency-tracker](https://github.com/natinecho/dsaquestions/tree/master/2778-frequency-tracker) |
 ## Combinatorics
 |  |
 | ------- |
