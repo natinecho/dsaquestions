@@ -269,6 +269,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/natinecho/dsaquestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/natinecho/dsaquestions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/natinecho/dsaquestions/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/natinecho/dsaquestions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/natinecho/dsaquestions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -361,6 +362,7 @@
 | [2089-maximum-matrix-sum](https://github.com/natinecho/dsaquestions/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/natinecho/dsaquestions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/natinecho/dsaquestions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/natinecho/dsaquestions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -510,6 +512,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/natinecho/dsaquestions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natinecho/dsaquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/natinecho/dsaquestions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2846-robot-collisions](https://github.com/natinecho/dsaquestions/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/natinecho/dsaquestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/natinecho/dsaquestions/tree/master/3447-clear-digits) |
@@ -581,6 +584,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/natinecho/dsaquestions/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/natinecho/dsaquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/natinecho/dsaquestions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
 | ------- |
