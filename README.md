@@ -295,6 +295,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/natinecho/dsaquestions/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/natinecho/dsaquestions/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
