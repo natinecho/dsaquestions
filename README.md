@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/natinecho/dsaquestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/natinecho/dsaquestions/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/natinecho/dsaquestions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -334,6 +335,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/natinecho/dsaquestions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1206-corporate-flight-bookings](https://github.com/natinecho/dsaquestions/tree/master/1206-corporate-flight-bookings) |
@@ -654,6 +656,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/natinecho/dsaquestions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natinecho/dsaquestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
