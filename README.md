@@ -36,6 +36,7 @@
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/natinecho/dsaquestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0790-global-and-local-inversions](https://github.com/natinecho/dsaquestions/tree/master/0790-global-and-local-inversions) |
+| [0792-binary-search](https://github.com/natinecho/dsaquestions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
@@ -639,6 +640,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/natinecho/dsaquestions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/natinecho/dsaquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
