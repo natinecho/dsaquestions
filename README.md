@@ -84,6 +84,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
 | [2245-destroying-asteroids](https://github.com/natinecho/dsaquestions/tree/master/2245-destroying-asteroids) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/natinecho/dsaquestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/natinecho/dsaquestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/natinecho/dsaquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -391,6 +392,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natinecho/dsaquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/natinecho/dsaquestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/natinecho/dsaquestions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
@@ -538,6 +540,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/natinecho/dsaquestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/natinecho/dsaquestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/natinecho/dsaquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/natinecho/dsaquestions/tree/master/2699-count-the-number-of-fair-pairs) |
