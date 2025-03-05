@@ -321,6 +321,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/natinecho/dsaquestions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
