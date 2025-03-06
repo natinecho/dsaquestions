@@ -113,6 +113,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/natinecho/dsaquestions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/natinecho/dsaquestions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/natinecho/dsaquestions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/natinecho/dsaquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/natinecho/dsaquestions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/natinecho/dsaquestions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/natinecho/dsaquestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -231,6 +232,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/natinecho/dsaquestions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/natinecho/dsaquestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2778-frequency-tracker](https://github.com/natinecho/dsaquestions/tree/master/2778-frequency-tracker) |
+| [3227-find-missing-and-repeated-values](https://github.com/natinecho/dsaquestions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/natinecho/dsaquestions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [3227-find-missing-and-repeated-values](https://github.com/natinecho/dsaquestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -472,6 +475,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/natinecho/dsaquestions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2728-sum-in-a-matrix](https://github.com/natinecho/dsaquestions/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/natinecho/dsaquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
