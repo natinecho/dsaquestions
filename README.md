@@ -322,6 +322,7 @@
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-closest-prime-numbers-in-range](https://github.com/natinecho/dsaquestions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/natinecho/dsaquestions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/natinecho/dsaquestions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -754,4 +755,8 @@
 |  |
 | ------- |
 | [1905-design-authentication-manager](https://github.com/natinecho/dsaquestions/tree/master/1905-design-authentication-manager) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/natinecho/dsaquestions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
