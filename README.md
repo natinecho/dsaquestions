@@ -122,6 +122,7 @@
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/natinecho/dsaquestions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3427-special-array-ii](https://github.com/natinecho/dsaquestions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/natinecho/dsaquestions/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/natinecho/dsaquestions/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/natinecho/dsaquestions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/natinecho/dsaquestions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/natinecho/dsaquestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -747,6 +748,7 @@
 | [1755-defuse-the-bomb](https://github.com/natinecho/dsaquestions/tree/master/1755-defuse-the-bomb) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/natinecho/dsaquestions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/natinecho/dsaquestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-alternating-groups-ii](https://github.com/natinecho/dsaquestions/tree/master/3483-alternating-groups-ii) |
 ## Data Stream
 |  |
 | ------- |
