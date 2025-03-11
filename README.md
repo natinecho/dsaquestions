@@ -303,6 +303,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/natinecho/dsaquestions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/natinecho/dsaquestions/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
