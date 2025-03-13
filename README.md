@@ -28,6 +28,7 @@
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/natinecho/dsaquestions/tree/master/0436-find-right-interval) |
 | [0495-teemo-attacking](https://github.com/natinecho/dsaquestions/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/natinecho/dsaquestions/tree/master/0605-can-place-flowers) |
@@ -491,6 +492,7 @@
 | [0217-contains-duplicate](https://github.com/natinecho/dsaquestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/natinecho/dsaquestions/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/natinecho/dsaquestions/tree/master/0436-find-right-interval) |
 | [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/natinecho/dsaquestions/tree/master/0985-bag-of-tokens) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
@@ -656,6 +658,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/natinecho/dsaquestions/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/natinecho/dsaquestions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/natinecho/dsaquestions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
