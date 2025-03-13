@@ -4,27 +4,48 @@ class Solution:
         ed = []
 
         for i in range(len(intervals)):
-            st.append((intervals[i][0], i))
-            ed.append((intervals[i][1], i))
+            st.append((intervals[i][0],i))
+            ed.append((intervals[i][1],i))
 
         st.sort()
         ed.sort()
 
-        ans = [-1] * (len(intervals))
-
         i = 0
         j = 0
 
-        while i < len(ed) and j < len(st):
+        ans = [-1] * len(intervals)
 
-            if ed[i][0] <= st[j][0]:
-                ans[ed[i][1]] = st[j][1]
-                i += 1
+        while i < len(st) and j < len(ed):
+            if ed[j][0] <= st[i][0]:
+                ans[ed[j][1]] = st[i][1]
+                j += 1 
+
             else:
-                j += 1
+                i += 1
 
 
         return ans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         # st = []
