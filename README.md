@@ -316,6 +316,7 @@
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/natinecho/dsaquestions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/natinecho/dsaquestions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/natinecho/dsaquestions/tree/master/0441-arranging-coins) |
 | [0592-fraction-addition-and-subtraction](https://github.com/natinecho/dsaquestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/natinecho/dsaquestions/tree/master/0670-maximum-swap) |
@@ -660,6 +661,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/natinecho/dsaquestions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/natinecho/dsaquestions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/natinecho/dsaquestions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/0882-peak-index-in-a-mountain-array) |
