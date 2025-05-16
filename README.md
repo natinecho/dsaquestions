@@ -451,6 +451,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/natinecho/dsaquestions/tree/master/1558-course-schedule-iv) |
+| [1731-even-odd-tree](https://github.com/natinecho/dsaquestions/tree/master/1731-even-odd-tree) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/natinecho/dsaquestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/natinecho/dsaquestions/tree/master/2103-find-all-groups-of-farmland) |
@@ -715,6 +716,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/natinecho/dsaquestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1731-even-odd-tree](https://github.com/natinecho/dsaquestions/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/natinecho/dsaquestions/tree/master/2384-root-equals-sum-of-children) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/natinecho/dsaquestions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -738,6 +740,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/natinecho/dsaquestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1731-even-odd-tree](https://github.com/natinecho/dsaquestions/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/natinecho/dsaquestions/tree/master/2384-root-equals-sum-of-children) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/natinecho/dsaquestions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
