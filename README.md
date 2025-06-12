@@ -13,6 +13,7 @@
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/natinecho/dsaquestions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/natinecho/dsaquestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/natinecho/dsaquestions/tree/master/0118-pascals-triangle) |
@@ -246,6 +247,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
@@ -415,6 +417,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/natinecho/dsaquestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/natinecho/dsaquestions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -472,6 +475,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
@@ -607,6 +611,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/natinecho/dsaquestions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/natinecho/dsaquestions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
