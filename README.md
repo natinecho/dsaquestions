@@ -429,6 +429,7 @@
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -450,6 +451,7 @@
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -469,6 +471,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -624,6 +627,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/natinecho/dsaquestions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/natinecho/dsaquestions/tree/master/1325-path-with-maximum-probability) |
