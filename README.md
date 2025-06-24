@@ -251,6 +251,7 @@
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
+| [0282-expression-add-operators](https://github.com/natinecho/dsaquestions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/natinecho/dsaquestions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/natinecho/dsaquestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/natinecho/dsaquestions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -315,6 +316,7 @@
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
+| [0282-expression-add-operators](https://github.com/natinecho/dsaquestions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/natinecho/dsaquestions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/natinecho/dsaquestions/tree/master/0412-fizz-buzz) |
@@ -617,6 +619,7 @@
 | [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/natinecho/dsaquestions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/natinecho/dsaquestions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0282-expression-add-operators](https://github.com/natinecho/dsaquestions/tree/master/0282-expression-add-operators) |
 | [0813-all-paths-from-source-to-target](https://github.com/natinecho/dsaquestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/natinecho/dsaquestions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/natinecho/dsaquestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
