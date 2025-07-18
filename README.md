@@ -64,6 +64,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/natinecho/dsaquestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1646-kth-missing-positive-number](https://github.com/natinecho/dsaquestions/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/natinecho/dsaquestions/tree/master/1755-defuse-the-bomb) |
+| [1762-furthest-building-you-can-reach](https://github.com/natinecho/dsaquestions/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/natinecho/dsaquestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -182,6 +183,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/natinecho/dsaquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/natinecho/dsaquestions/tree/master/1325-path-with-maximum-probability) |
+| [1762-furthest-building-you-can-reach](https://github.com/natinecho/dsaquestions/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/natinecho/dsaquestions/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/natinecho/dsaquestions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1955-seat-reservation-manager](https://github.com/natinecho/dsaquestions/tree/master/1955-seat-reservation-manager) |
@@ -384,6 +386,7 @@
 | [1095-two-city-scheduling](https://github.com/natinecho/dsaquestions/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/natinecho/dsaquestions/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/natinecho/dsaquestions/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1762-furthest-building-you-can-reach](https://github.com/natinecho/dsaquestions/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/natinecho/dsaquestions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/natinecho/dsaquestions/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/natinecho/dsaquestions/tree/master/2117-find-original-array-from-doubled-array) |
