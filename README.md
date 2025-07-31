@@ -24,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/natinecho/dsaquestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/natinecho/dsaquestions/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/natinecho/dsaquestions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/natinecho/dsaquestions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
@@ -146,6 +147,7 @@
 | [0120-triangle](https://github.com/natinecho/dsaquestions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natinecho/dsaquestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/natinecho/dsaquestions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/natinecho/dsaquestions/tree/master/0747-min-cost-climbing-stairs) |
@@ -680,6 +682,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/natinecho/dsaquestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/natinecho/dsaquestions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/natinecho/dsaquestions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/natinecho/dsaquestions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/natinecho/dsaquestions/tree/master/0436-find-right-interval) |
