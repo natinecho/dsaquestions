@@ -35,6 +35,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/natinecho/dsaquestions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/natinecho/dsaquestions/tree/master/0665-non-decreasing-array) |
+| [0695-max-area-of-island](https://github.com/natinecho/dsaquestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/natinecho/dsaquestions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/natinecho/dsaquestions/tree/master/0747-min-cost-climbing-stairs) |
@@ -437,6 +438,7 @@
 | [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/natinecho/dsaquestions/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/natinecho/dsaquestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
@@ -461,6 +463,7 @@
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/natinecho/dsaquestions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/natinecho/dsaquestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/natinecho/dsaquestions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
@@ -485,6 +488,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/natinecho/dsaquestions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/natinecho/dsaquestions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/natinecho/dsaquestions/tree/master/0801-is-graph-bipartite) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
 ## Matrix
@@ -495,6 +499,7 @@
 | [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/natinecho/dsaquestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/natinecho/dsaquestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/natinecho/dsaquestions/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/natinecho/dsaquestions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/natinecho/dsaquestions/tree/master/2035-count-sub-islands) |
