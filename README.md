@@ -168,6 +168,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/natinecho/dsaquestions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/natinecho/dsaquestions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/natinecho/dsaquestions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/natinecho/dsaquestions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/natinecho/dsaquestions/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Queue
 |  |
