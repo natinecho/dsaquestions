@@ -220,6 +220,7 @@
 | [0217-contains-duplicate](https://github.com/natinecho/dsaquestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/natinecho/dsaquestions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
+| [0677-map-sum-pairs](https://github.com/natinecho/dsaquestions/tree/master/0677-map-sum-pairs) |
 | [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/natinecho/dsaquestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0991-array-of-doubled-pairs](https://github.com/natinecho/dsaquestions/tree/master/0991-array-of-doubled-pairs) |
@@ -267,6 +268,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/natinecho/dsaquestions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/natinecho/dsaquestions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/natinecho/dsaquestions/tree/master/0640-solve-the-equation) |
+| [0677-map-sum-pairs](https://github.com/natinecho/dsaquestions/tree/master/0677-map-sum-pairs) |
 | [0778-reorganize-string](https://github.com/natinecho/dsaquestions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/natinecho/dsaquestions/tree/master/0812-rotate-string) |
 | [0858-masking-personal-information](https://github.com/natinecho/dsaquestions/tree/master/0858-masking-personal-information) |
@@ -607,6 +609,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/natinecho/dsaquestions/tree/master/0386-lexicographical-numbers) |
+| [0677-map-sum-pairs](https://github.com/natinecho/dsaquestions/tree/master/0677-map-sum-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/natinecho/dsaquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Game Theory
 |  |
@@ -722,6 +725,7 @@
 | [0155-min-stack](https://github.com/natinecho/dsaquestions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/natinecho/dsaquestions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/natinecho/dsaquestions/tree/master/0307-range-sum-query-mutable) |
+| [0677-map-sum-pairs](https://github.com/natinecho/dsaquestions/tree/master/0677-map-sum-pairs) |
 | [0969-number-of-recent-calls](https://github.com/natinecho/dsaquestions/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/natinecho/dsaquestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/natinecho/dsaquestions/tree/master/1497-design-a-stack-with-increment-operation) |
