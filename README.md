@@ -20,6 +20,7 @@
 | [0120-triangle](https://github.com/natinecho/dsaquestions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natinecho/dsaquestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/natinecho/dsaquestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/natinecho/dsaquestions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/natinecho/dsaquestions/tree/master/0200-number-of-islands) |
@@ -150,6 +151,7 @@
 | [0120-triangle](https://github.com/natinecho/dsaquestions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natinecho/dsaquestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/natinecho/dsaquestions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/natinecho/dsaquestions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/natinecho/dsaquestions/tree/master/0313-super-ugly-number) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/natinecho/dsaquestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/natinecho/dsaquestions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/natinecho/dsaquestions/tree/master/0264-ugly-number-ii) |
@@ -259,6 +262,7 @@
 | [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
@@ -554,6 +558,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/natinecho/dsaquestions/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Stack
 |  |
@@ -608,6 +613,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/natinecho/dsaquestions/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/natinecho/dsaquestions/tree/master/0677-map-sum-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/natinecho/dsaquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
