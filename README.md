@@ -146,6 +146,7 @@
 | [0062-unique-paths](https://github.com/natinecho/dsaquestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/natinecho/dsaquestions/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/natinecho/dsaquestions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/natinecho/dsaquestions/tree/master/0118-pascals-triangle) |
@@ -262,6 +263,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/natinecho/dsaquestions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/natinecho/dsaquestions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
