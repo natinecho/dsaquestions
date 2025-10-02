@@ -143,6 +143,7 @@
 | [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/natinecho/dsaquestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/natinecho/dsaquestions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/natinecho/dsaquestions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/natinecho/dsaquestions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/natinecho/dsaquestions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/natinecho/dsaquestions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/natinecho/dsaquestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/natinecho/dsaquestions/tree/master/0171-excel-sheet-column-number) |
@@ -742,6 +744,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/natinecho/dsaquestions/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
 ## Monotonic Stack
 |  |
