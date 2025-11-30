@@ -89,6 +89,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/natinecho/dsaquestions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/natinecho/dsaquestions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2241-recover-the-original-array](https://github.com/natinecho/dsaquestions/tree/master/2241-recover-the-original-array) |
@@ -352,6 +353,7 @@
 | [2050-count-good-numbers](https://github.com/natinecho/dsaquestions/tree/master/2050-count-good-numbers) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
 | [2206-detonate-the-maximum-bombs](https://github.com/natinecho/dsaquestions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/natinecho/dsaquestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/natinecho/dsaquestions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/natinecho/dsaquestions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -430,6 +432,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/natinecho/dsaquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/natinecho/dsaquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/natinecho/dsaquestions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/natinecho/dsaquestions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/natinecho/dsaquestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/natinecho/dsaquestions/tree/master/2317-count-collisions-on-a-road) |
@@ -748,6 +751,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/natinecho/dsaquestions/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/natinecho/dsaquestions/tree/master/2187-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/natinecho/dsaquestions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
