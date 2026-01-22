@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/natinecho/dsaquestions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/natinecho/dsaquestions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/natinecho/dsaquestions/tree/master/0035-search-insert-position) |
@@ -221,6 +222,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/natinecho/dsaquestions/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/natinecho/dsaquestions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0139-word-break](https://github.com/natinecho/dsaquestions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/natinecho/dsaquestions/tree/master/0217-contains-duplicate) |
