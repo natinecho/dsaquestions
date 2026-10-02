@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/natinecho/dsaquestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/natinecho/dsaquestions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/natinecho/dsaquestions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/natinecho/dsaquestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/natinecho/dsaquestions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
@@ -145,6 +146,7 @@
 | [0032-longest-valid-parentheses](https://github.com/natinecho/dsaquestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/natinecho/dsaquestions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/natinecho/dsaquestions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/natinecho/dsaquestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/natinecho/dsaquestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/natinecho/dsaquestions/tree/master/0064-minimum-path-sum) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/natinecho/dsaquestions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/natinecho/dsaquestions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/natinecho/dsaquestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/natinecho/dsaquestions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/natinecho/dsaquestions/tree/master/0410-split-array-largest-sum) |
